@@ -1,0 +1,14 @@
+*.csv
+*.tgz
+*.data
+gbm
+*.xlsx
+mboost
+party
+plyr
+specdata
+rprog-data-ProgAssignment3-data
+.RData
+.Rhistory
+.DS_Store
+Restaurant_Revenue.R
